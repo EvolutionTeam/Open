@@ -108,8 +108,8 @@ input[type=text] {
 	</header>
 
 
-	<!--==========================
-    Intro Section
+	<!--==========================add
+    Intro Section 
   ============================-->
 	<section id="intro" class="clearfix">
 		<div class="container">
